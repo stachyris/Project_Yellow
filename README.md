@@ -1,5 +1,7 @@
+[![GitHub language count](https://img.shields.io/github/languages/count/stachyris/Project_Yellow)
+![GitHub forks](https://img.shields.io/github/forks/stachyris/Project_Yellow)
 
-This repo contains scripts and methods used to assemble and visualize Yellow's genome through short read sequencing and reference guided scaffolding.
+This repo contains scripts and methods used to assemble and visulize Yellow's genome through short-read sequencing and reference-guided scaffolding.
 -----
 Yellow is one of the first White-bellied Sholakili (_Sholicola albiventris_) to be ringed in 2018 by Bird Lab (skyisland.in) - with a yellow ring - and as you can see, the name has stuck on. I am the unofficial lab mascot because my territory is right outside their dorm door.
 
@@ -7,4 +9,4 @@ Yellow is one of the first White-bellied Sholakili (_Sholicola albiventris_) to 
 ![image](https://github.com/stachyris/Project_Yellow/blob/main/Result/scaffolded__fluentDNA.jpg)
  
 
-Project conceptualised and executed by Vinay KL (skyisland.in/vinay)
+The project was conceptualized and executed by Vinay KL (skyisland.in/vinay)
