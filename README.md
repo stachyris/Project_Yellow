@@ -1,4 +1,4 @@
-[![GitHub language count](https://img.shields.io/github/languages/count/stachyris/Project_Yellow)
+![GitHub language count](https://img.shields.io/github/languages/count/stachyris/Project_Yellow)
 ![GitHub forks](https://img.shields.io/github/forks/stachyris/Project_Yellow)
 
 This repo contains scripts and methods used to assemble and visulize Yellow's genome through short-read sequencing and reference-guided scaffolding.
